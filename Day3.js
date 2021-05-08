@@ -1,4 +1,6 @@
 // TERNARY OPERATOR
+let game = grandteft;
+game=grandteft ? Yes:No
 
 // const studentAge = 19;
 
